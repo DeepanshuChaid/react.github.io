@@ -2,7 +2,7 @@ import Card from './Card.jsx'
 
 function App() {
   <>
-    <Card/>
+    <Card />
   </>
 }
 
